@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Naveen%20Magadum&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer%20|%20Spring%20Boot%20|%20React%20|%20MySQL&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Naveen%20Magadum&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20React%20|%20MySQL&descAlignY=58"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Naveen+👋;Full+Stack+Java+Developer;Spring+Boot+Developer;React+Developer;Always+Learning+New+Technologies;Open+Source+Contributor;Building+Scalable+Applications"/>
