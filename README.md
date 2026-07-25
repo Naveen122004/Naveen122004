@@ -16,7 +16,7 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-🎓 Full Stack Java Developer
+🎓 Java Full Stack Developer
 
 💻 Passionate about creating scalable applications
 
